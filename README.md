@@ -2,7 +2,7 @@
 
 -I am Xiaoting "Sebastian" Zhang.   
 -I am an undergraduate in the School of Information Management @ Nanjing University(NJU).  
--You can reach me by email: zhangxaioting320@gmail.com, 191810245@smail.nju.edu.cn.  
+-You can reach me by email: zhangxaioting320@gmail.com.
 -My web page is https://greypreacher.github.io/  
 
 <!--
