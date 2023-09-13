@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 -I am Xiaoting "Alvin" Zhang.   
--I am an undergraduate in the School of Information Management @ Nanjing University(NJU).  
--You can reach me by email: zhangxaioting320@gmail.com.  
+-I am a master student in Faculty of Science @ National University of Singapore(NUS).  
+-You can reach me by email: zhangxaioting320@gmail.com | xiaoting.z@u.nus.edu.  
 -My web page is https://greypreacher.github.io/  
 
 <!--
